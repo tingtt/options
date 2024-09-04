@@ -4,6 +4,14 @@ Functional Options Pattern utility for Go.
 
 ## Usage
 
+```sh
+go get github.com/tingtt/options
+```
+
+```go
+import "github.com/tingtt/options"
+```
+
 - Simple one
 	```go
 	type Option struct {}
